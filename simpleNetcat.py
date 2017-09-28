@@ -51,6 +51,7 @@ def main():
         usage()
         
     for o,a in opts:
+        if o in ("-h","--help"):
         
             
                                                                 
