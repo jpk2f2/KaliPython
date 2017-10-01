@@ -16,4 +16,4 @@ def ssh_command(ip, user, passwd, command):
     return
 
 #ssh_command('127.0.0.1','username','password','id')
-ssh_command('192.168.1.145','pi','CraftyCat3','id')
+ssh_command('192.168.1.145','pi','password','id')
